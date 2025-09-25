@@ -4,6 +4,8 @@ description: This is a special downloadable file required to do homework.
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/2d8f13cba11848dd0b001694b81230d0_fish.mat
 file_size: 4700456
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

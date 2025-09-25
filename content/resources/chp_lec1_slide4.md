@@ -6,6 +6,8 @@ description: 'Data from an experiment on the weakly electric fish Eigenmannia. T
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/e73cc896200af2df079f31f0f52711d4_chp_lec1_slide4.jpg
 file_size: 32615
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

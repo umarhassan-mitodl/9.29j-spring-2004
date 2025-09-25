@@ -5,6 +5,8 @@ description: This resource contains information on MATLAB, free your mind, varia
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/ccd4841531479d369a3e669edff5c65d_optional01.pdf
 file_size: 104887
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
