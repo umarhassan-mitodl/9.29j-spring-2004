@@ -6,6 +6,8 @@ description: This resource contains information on Miyashita experiment, the GTA
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/614c4ed033780401f65843a8d6583562_hss_assocmem2.pdf
 file_size: 64729
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

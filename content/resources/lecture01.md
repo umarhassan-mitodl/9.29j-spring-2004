@@ -6,6 +6,8 @@ description: This resource contains information on what is computational neurosc
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/36a5f16c3dc68f39afdbb16c93835f60_lecture01.pdf
 file_size: 106495
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

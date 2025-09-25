@@ -4,6 +4,8 @@ description: This is a special downloadable file in assignment section.
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/90457c49d96cccb65de19a51227ceba9_cc.m
 file_size: 1251
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

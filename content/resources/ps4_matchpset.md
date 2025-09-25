@@ -5,6 +5,8 @@ description: This resource contains questions on matching / maximizing,and pure 
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/69eda6678c88d2f2ccf0ffefe0ce725d_ps4_matchpset.pdf
 file_size: 63532
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

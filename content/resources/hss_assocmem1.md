@@ -6,6 +6,8 @@ description: This resource contains information on the Hebbian paradigm, binary 
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/bf699be0528543856f9daac4f88e29f6_hss_assocmem1.pdf
 file_size: 93755
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
