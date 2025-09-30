@@ -44,7 +44,7 @@
     "content": "2f41e5f7-4666-a09b-a1b8-c7026318505d",
     "website": "9-29j-introduction-to-computational-neuroscience-spring-2004"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"
