@@ -5,8 +5,6 @@ description: This is a special downloadable file with zipped version in assignme
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/e06526e74873bcab5e4f2913e19841a1_fish.zip
 file_size: 841497
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

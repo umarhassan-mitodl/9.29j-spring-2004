@@ -6,8 +6,6 @@ description: This resource contains information on the matching law, matching is
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/184d7272a8bf6f1a33165d05feb118d9_hss_spectrum2.pdf
 file_size: 101595
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

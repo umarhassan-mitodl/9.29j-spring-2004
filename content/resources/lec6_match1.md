@@ -6,8 +6,6 @@ description: This resource contains information on the law of effect,variable in
 file: /courses/9-29j-introduction-to-computational-neuroscience-spring-2004/3880fbebbc36c507aa303bc4dd4fad5c_lec6_match1.pdf
 file_size: 64916
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
