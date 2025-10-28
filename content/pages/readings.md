@@ -91,7 +91,7 @@ Palmer, Stephen E. _Vision Science - Photons to Phenomenology\__.\_ Cambridge, M
 
 Dayan and Abbot, sections 2.3-2.6.
 
-Web site: [Space-Time Receptive Fields of Visual Neurons](http://www.bpe.es.osaka-u.ac.jp/).
+Web site: {{% resource_link "5f26a806-c9e1-4e9a-ae3c-1b0ba6de7ed0" "Space-Time Receptive Fields of Visual Neurons" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
@@ -257,7 +257,7 @@ Dayan, and Abbott. Section 5.11. (Appendices A and B)
 
 Sherman, A. "Lecture Notes and Lab Problems on Numerical Methods." ({{% resource_link cb4507ee-2c59-db4d-d234-3672492a252a "PDF" %}}) (Courtesy of Dr. Arthur Sherman, NIDDK, National Institutes of Health. This work is in the public domain.)
 
-Arthur Sherman's Web page on [Numerical Methods in Neuronal Modeling](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.28.3083).
+Arthur Sherman's Web page on {{% resource_link "1805d2db-8b1d-4dde-bacf-c5bf6c848fe6" "Numerical Methods in Neuronal Modeling" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
